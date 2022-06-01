@@ -1,0 +1,20 @@
+{
+  "name": "shopping_app_api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "khaled",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "mongoose": "^6.3.4",
+    "multer": "^1.4.4",
+    "nodemon": "^2.0.16",
+    "path": "^0.12.7"
+  }
+}
